@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#06A9FF",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "维修项目评论展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
